@@ -1,0 +1,44 @@
+{
+  "properties" : [
+{
+  "name" : "Sunny Side Chicago",
+  "price" : 250,
+  "rating" : "4",
+  "location" : "Chicago",
+  "rooms" : "3",
+  "availability" : "Isn't Available" ,
+  "features" : ["wifi","hot-tub","driveway"]
+},
+
+{
+"name" : "Igloo in Antarctica",
+"price" : 1950,
+"rating" : "5",
+"location" : "Antarctica",
+"rooms" : "1",
+"availability" : "Isn't Available" ,
+"features" : ["made of ice", "penguins visit","ice-fishing hut"]
+},
+
+{
+"name" : "CLEARANCE: Compton Apartment",
+"price" : 50,
+"rating" : "1",
+"location" : "Compton, California",
+"rooms" : "2",
+"availability" : "Available" ,
+"features" : ["Barred Windows", "Padlocked Door"]
+},
+{
+"name" : "Super Awesome Mansion in Beverly Hills",
+"price" : 5000,
+"rating" : "5",
+"location" : "HollyWood",
+"rooms" : "24",
+"availability" : "Available" ,
+"features" : ["Pool", "10 car garage", "Crystal chandelier", "butler", "Maids", "Chef"],
+        "superRating" : "100/10"
+}
+
+  ]
+}
